@@ -1,0 +1,51 @@
+.item1{    
+    height: 600px;
+    border: 2px solid white;
+    background: blue;
+    
+    
+}
+.item2{    
+    height: 600px;
+    border: 2px solid white;
+    background: blue;
+    
+    
+}
+.item3{ 
+    backgroaund: blue;   
+    height: 300px;
+    border: 4px solid white;
+    display: flex;
+    justify-content: flex-end; 
+    
+}
+.item4{    
+    height: 300px;
+    border: 4px solid white;
+    background: blue;   
+    display: flex;
+    justify-content: flex-end; 
+}
+.item5{ 
+    background:blue;   
+    height: 200px;
+    border: 4px solid white;
+    display: flex;
+    justify-content: flex-end; 
+}
+.item6{    
+    height: 200px;
+    border: 4px solid white;
+    background: blue;  
+    display: flex;
+    justify-content: flex-end; 
+}
+
+.con1{
+    display: flex;
+    align-items: flex-end;
+    
+    
+
+}

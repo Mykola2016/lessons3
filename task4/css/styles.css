@@ -1,0 +1,89 @@
+.item0{
+    background: darkgray;  
+}
+.item1{    
+    height: 250px;
+    background:darkgray;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;  
+}
+.item{       
+    height: 70px;
+    border: 1px solid white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+       
+}
+
+
+ .item2{
+      border: 2px solid blue;
+}
+    
+
+.nam{
+    background: white;
+    border: 2px solid black;
+    
+}
+.sumbol {
+    background: rgb(221, 220, 220);
+    border: 2px solid black;
+    
+}
+
+   
+.item0 .cont0{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;  
+    align-items: center;  
+}
+.stan{
+    display: flex;   
+    flex-direction:row;
+    justify-content: space-between;
+    
+}
+.stan h1{
+     padding: 7px; 
+     display: flex;
+     flex-direction: row;
+}
+.stan h1 p{
+    padding-left: 15px; 
+}
+ h3{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between; 
+    margin-bottom: -10px;
+
+}
+ span {
+      font-size: 70px;
+  }
+    
+  h5{
+      display: flex;
+      justify-content: space-between;
+
+  }
+  h5 p{
+      display: flex;
+      padding-left: 60px;
+     
+  }
+  .nol{
+      align-self: flex-end;
+  }
+  .inv{
+     color:rgb(143, 140, 140);
+  }
+ .con2 h1 {
+     font-weight: 700;
+ }
+  
